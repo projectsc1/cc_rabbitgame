@@ -1,5 +1,5 @@
 # Rabbit And Steel CC Resources
-
+![Rabbit and Steel Base 5 Characters IMAGE](https://github.com/projectsc1/ccsteelandrabbits/blob/main/_githubimages/rabbitsteel_charselect.gif)
 ## Links:
 
 - [Rabbit And Steel (https://store.steampowered.com/app/2132850/Rabbit_and_Steel/)](https://store.steampowered.com/app/2132850/Rabbit_and_Steel/) on Steam
