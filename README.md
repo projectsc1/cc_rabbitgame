@@ -3,7 +3,7 @@
 ## Links:
 
 - [Rabbit And Steel (https://store.steampowered.com/app/2132850/Rabbit_and_Steel/)](https://store.steampowered.com/app/2132850/Rabbit_and_Steel/) on Steam
-- [Direct Install (steam://install/2598750)](steam://install/2598750)
+- Directly install the Rabbit And Steel Demo **(steam://install/2598750)** \[If you are unable to find the Demo on the Steam Page, paste this link into a Browser, as it will open steam and download the demo.\] 
 
 ## Quick Guide on Palette/Sprite Swapping:
 
