@@ -15,7 +15,7 @@
 
 (requires Clip Studio Paint or any art program that can open .clip files)
 
-(however in the future I will try to provide _.ase files_, _.kra in the src directory_)
+(however in the future I will try to provide _.ase files_, _.kra files in the src directory_)
 
 - Download the source of sprite in the src directory
 - Open the .clip file in Clip Studio Paint (or whatever)
