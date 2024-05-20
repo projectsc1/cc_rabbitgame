@@ -23,5 +23,5 @@
 
 - Download the source of sprite in the src directory
 - Open the .clip file in Clip Studio Paint (or whatever)
-- Do whatever edits, I guess lmao.
+- Do whatever edits, as long as people don't have any issues regarding it.
 - Export as a spritesheet with only 1 row of sprites, and scale down the output by 50%.
