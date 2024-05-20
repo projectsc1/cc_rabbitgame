@@ -1,5 +1,6 @@
 # Rabbit And Steel CC Resources
 ![Rabbit and Steel Base 5 Characters IMAGE](https://github.com/projectsc1/cc_rabbitgame/blob/main/_githubimages/rabbitsteel_charselect.gif)
+
 /src/ directory files originate from the **mino_dev games** Discord Server (#rabbit_leaks), and these files are to be used responsibly.
 
 ## Links:
